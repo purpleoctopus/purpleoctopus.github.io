@@ -1,0 +1,38 @@
+body{
+  background-color: beige;
+}
+p {
+  color: black;
+  font-family: bahnschrift;
+  font-size: 28px;
+  text-align: center;
+  margin: 20px 0 20px 0;
+}
+.picture{
+  height:180px;
+}
+td{
+  text-align: center;
+  font-size: 16px;
+  font-family: Verdana;
+}
+hr{
+  margin: 20px 10px 20px 10px;
+  color: black;
+  border: 1px solid black;
+}
+.center {
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid black;
+}
+th{
+  border-bottom: 2px solid black;
+}
+.me{
+  text-align: right;
+  margin: 350px 20px 0 0;
+}
+.list_title{
+  font-weight: bold;
+}
